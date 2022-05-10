@@ -1,0 +1,10 @@
+G:\PRG\List_test\List_test\bin\Debug\List_test.exe.config
+G:\PRG\List_test\List_test\bin\Debug\List_test.exe
+G:\PRG\List_test\List_test\bin\Debug\List_test.pdb
+G:\PRG\List_test\List_test\obj\Debug\List_test.csprojAssemblyReference.cache
+G:\PRG\List_test\List_test\obj\Debug\List_test.Form1.resources
+G:\PRG\List_test\List_test\obj\Debug\List_test.Properties.Resources.resources
+G:\PRG\List_test\List_test\obj\Debug\List_test.csproj.GenerateResource.cache
+G:\PRG\List_test\List_test\obj\Debug\List_test.csproj.CoreCompileInputs.cache
+G:\PRG\List_test\List_test\obj\Debug\List_test.exe
+G:\PRG\List_test\List_test\obj\Debug\List_test.pdb
